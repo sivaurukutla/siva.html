@@ -1,0 +1,15 @@
+*{
+    color: rgb(3, 155, 64);
+}
+div{
+    width: 600px;
+    height: 400px;
+}
+.divbg{
+    width: 600px;
+    height:400px;
+    background-image: url();
+    background-size:300px 200px ;
+    background-repeat: repeat;
+    background-position: fixed;
+}

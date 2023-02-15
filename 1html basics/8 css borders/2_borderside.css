@@ -1,0 +1,26 @@
+*{
+    padding:10px;
+    margin: 10px;
+}
+body{
+    border-width: 4px;
+    border-style: double;
+    border-color: cornflowerblue;
+    border-radius: 30px;
+}
+h2{
+    border-width:3px 4px 5px 6px;
+    border-style: hidden double inset initial ;
+    border-color: burlywood darkgoldenrod fuchsia firebrick;
+}
+div{
+    border-width: 3px 5px 8px;
+    border-style:solid double dotted inset ;
+    border-color: blueviolet hotpink goldenrod;
+    
+}
+p{
+    border-width: 2px 3px;
+    border-style: groove hidden;
+   /* border-color: aquamarine tomato;*/
+}

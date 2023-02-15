@@ -1,0 +1,22 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+    color:aqua
+    text-align:center;
+    text-shadow:4px 5px 6px blue;
+}
+div{
+color:hsl(54,23%,54%)
+text-align:center;
+text-decoration-line:underline;
+text-decoration-style:double;
+text-decoration-color:blue;
+}
+p{
+    color:seagreen;
+    text-align:right;
+    text-transformation:capitalize;
+    text-spacing:2px;
+}

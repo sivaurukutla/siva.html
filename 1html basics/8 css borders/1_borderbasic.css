@@ -1,0 +1,21 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+body{
+    /*border-width:2px;*/
+    border-width: 4px;
+    border-style: double;
+    border-color: blue;
+    border-radius: 20px;
+}
+h2{
+    border:2px solid burlywood;
+}
+div{
+    border:5px inset rosybrown;
+    /*border:10px outset black*/
+}
+p{
+    border: 3px ridge blue;
+}
