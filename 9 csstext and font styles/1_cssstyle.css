@@ -1,0 +1,23 @@
+*{
+    padding:5px;
+    margin:5px;
+}
+h2{
+color:rgb(154, 103, 28);
+text-align:center;
+text-shadow:4px 4px 10px red;
+}
+div{
+    color:aqua;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(5, 120, 28);
+
+
+}
+p{
+    color:goldenrod;
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing:2px ;
+}
